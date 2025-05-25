@@ -3,9 +3,9 @@
 <title>
 Happy Brother's day </title>
 </head>
-<body style="background-color: pink;">
+<body style="background-color: white;">
 <h1>Thank you for your wishes Khushi ❤️</h1>
-<font face="Sans-Serif" color="red" size="4">
+<font face="Sans-Serif" color="black" size="4">
 <marquee scrollamount = "5-7"><br>
 Tere jaise dost ho toh zindagi mein har din special lagta hai.
 </marquee>

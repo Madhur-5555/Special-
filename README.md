@@ -1,17 +1,20 @@
 <html>
 <head>
-<title> Khushi Thankyou for your wishes </title>
+<title><center>
+Thankyou for your wishes Khushi ❤️</center></title>
 </head>
 <body bgcolor = "pink">
-<font face = "Sans-Serif" , color = "red" , size = "7">
-<marquee scrollamount = "5-7">
+<fontface = "Sans-Serif" , color = "red" , size = "7">
+<marquee scrollamount = "5-7"><br>
 Tere jaise dost ho toh zindagi mein har din special lagta hai.
-</marquee><marquee scrollamount = "7-9">
+</marquee></br>
+<marquee scrollamount = "7-9"><br>
 Na tu bhai hai, na behen, par tu hai meri sabse khaas friend.
-</marquee><marquee scrollount = "9-11">
+</marquee></br>
+<marquee scrollount = "9-11"><br>
 Teri yaari hi meri smile ki wajah hai!
-</marquee>
+</marquee></br>
 Stay happy and awesome always!
-</font>
+</fontface>
 </body>
 </html>

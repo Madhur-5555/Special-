@@ -1,17 +1,18 @@
 <html>
 <head>
-<title><center>
-Thankyou for your wishes Khushi ❤️</center></title>
+<title>
+Happy Brother's day </title>
 </head>
-<body bgcolor="pink">
+<body style="background-color: pink;">
+<h1>Thank you for your wishes Khushi ❤️</h1>
 <font face="Sans-Serif" color="red" size="4">
-<marquee scrollamount = "7"><br>
+<marquee scrollamount = "5-7"><br>
 Tere jaise dost ho toh zindagi mein har din special lagta hai.
 </marquee>
-<marquee scrollamount = "7"><br>
+<marquee scrollamount = "5-7"><br>
 Na tu bhai hai, na behen, par tu hai meri sabse khaas friend.
 </marquee>
-<marquee scrollount = "7"><br>
+<marquee scrollount = "5-7"><br>
 Teri yaari hi meri smile ki wajah hai!
 </marquee>
 Stay happy and awesome always!
